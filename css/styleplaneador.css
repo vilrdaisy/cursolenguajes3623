@@ -1,0 +1,13 @@
+html{
+    background-color: azure;
+}
+table{
+    background-color: bisque;
+    border: solid 4px plum;
+    border-collapse: collapse;
+    color: blueviolet;
+}
+td,th{
+    border: plum 2px solid;
+    padding: 3px;
+}
